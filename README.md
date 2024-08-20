@@ -1,4 +1,5 @@
-                                                          ### Hey! 👋  I'm Dilek
+  ### Hey! 👋  I'm Dilek 
+  
 
 - 🔭 I’m currently working on Data Science Projects ✍
 - 🌱I’m currently expanding my skills in Python, Machine Learning, Feature Engineering, CRM Analytics, and Data Modeling through Miuul Bootcamps 🙂
